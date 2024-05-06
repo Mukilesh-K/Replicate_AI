@@ -9,7 +9,6 @@ This script utilizes Replicate AI to generate a talking AI avatar from a provide
 Before running the script, ensure you have the following:
 
 Replicate AI Account: Sign up for an account on Replicate AI platform.
-
 Access to CJWBW Model: Obtain access to the specified CJWBW model used in the script.
 Input WAV File: Prepare the WAV file containing the desired speech. Ensure the audio quality is clear and suitable for synthesis.
 Source Image: Provide an image that will be used as the base for the avatar. This image will be animated to represent the talking AI.
