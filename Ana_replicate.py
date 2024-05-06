@@ -1,7 +1,7 @@
 import replicate
 
 # Set your API token
-api_token = 'r8_K6HbzXTkhsXphJkSg1f1sO8MP18q2bG0xSKiw'
+api_token = 'Your_api_key'
 
 # Create a client instance and set the token within the client
 client = replicate.Client(api_token)
